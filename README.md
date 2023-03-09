@@ -6,7 +6,7 @@ My config for nvim and other stuff!
 
 2. Create the "nvim" folder inside the ```~/.config```.
 
-3. Copy the dotfiles from my repo inside the ```.config``` folder.
+3. Copy the dotfiles from my repo inside the ```.config/nvim/``` folder.
 
 4. Prfoit! 
  
