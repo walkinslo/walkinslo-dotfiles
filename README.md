@@ -2,4 +2,4 @@
 My config for nvim and other stuff!
 
 ## Images!
-![alt text](./images/image1.png)
+![alt text](./Images/image1.png)
